@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm minhmc2007, 15yo Vietnamese developer </h1>
+<h3 align="center">Passionate Developer | Learning Python, Make My Own OS and Building Cool Projects</h3>
 
-<!--
-**minhmc2007/minhmc2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Currently working on **Blue Archive Linux**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhmc2007&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhmc2007&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=minhmc2007&theme=radical)
