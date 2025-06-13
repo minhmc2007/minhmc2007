@@ -1,14 +1,40 @@
-<h1 align="center">Hi, I'm minhmc2007, 15yo Vietnamese developer </h1>
-<h3 align="center">Passionate Developer | Learning Python, Make My Own OS and Building Cool Projects</h3>
+# 👋 Hi, I’m Minh (aka minhmc2007)
 
-- Currently working on **Blue Archive Linux**
+![banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Minhmc2007%20👾&fontSize=40&animation=twinkling)
+
+## 🌟 About Me
+
+- 🧑‍💻 **15-year-old teen developer**
+- 🐍 **Python enthusiast**
+- 😱 *Runs from C, C++, and Assembly!*
+- 🛠️ Building my own Linux distribution based on Arch Linux:
+  - **Blue Archive Linux**
+- 🚀 Always learning and exploring cool new tech
+
+## 🔥 My Key Skills
+
+- Python (favorite!)
+- Linux & open source
+- Shell scripting
+- A bit of web dev
+
+## ⭐ Featured Project
+
+### [Blue Archive Linux](https://github.com/minhmc2007/blue-archive-linux)
+> *My own Arch Linux-based distro focused on simplicity and fun!*
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minhmc2007&repo=blue-archive-linux)](https://github.com/minhmc2007/blue-archive-linux)
+
+## 📫 Get in Touch
+
+- GitHub: [@minhmc2007](https://github.com/minhmc2007)
+- Gmail: quangminh21072010@gmail.com
+<!-- Add more socials here if you'd like, e.g., Discord, Twitter, etc. -->
+
+## ⚡ Fun Fact
+
+> “I love Python, but C makes me want to run for the hills!” 🏃‍♂️💨
 
 ---
 
-### 📊 GitHub Stats
-
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhmc2007&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhmc2007&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=minhmc2007&theme=radical)
+![Minh's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhmc2007&show_icons=true&theme=tokyonight)
