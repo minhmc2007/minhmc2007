@@ -38,3 +38,5 @@
 ---
 
 ![Minh's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhmc2007&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=minhmc2007&theme=dark)
