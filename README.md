@@ -7,7 +7,7 @@
 - 🧑‍💻 **15-year-old teen developer**
 - 🐍 **Python enthusiast**
 - 😱 *Runs from C, C++, and Assembly!*
-- 🛠️ Building my own Linux distribution based on Arch Linux:
+- 🛠️ Building my own Linux distribution based on Debian:
   - **Blue Archive Linux**
 - 🚀 Always learning and exploring cool new tech
 
