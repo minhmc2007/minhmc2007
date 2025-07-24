@@ -21,7 +21,7 @@
 ## ⭐ Featured Project
 
 ### [Blue Archive Linux](https://github.com/minhmc2007/blue-archive-linux)
-> *My own Arch Linux-based distro focused on simplicity and fun!*
+> *My own Debian based distro focused on simplicity and fun!*
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minhmc2007&repo=blue-archive-linux)](https://github.com/minhmc2007/blue-archive-linux)
 
