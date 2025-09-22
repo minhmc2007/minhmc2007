@@ -40,3 +40,6 @@
 ![Minh's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhmc2007&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=minhmc2007&theme=dark)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=minhmc2007&label=Profile%20views&color=0e75b6&style=flat" alt="minhmc" /> </p>
+
