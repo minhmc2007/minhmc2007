@@ -48,6 +48,4 @@ Privacy without source is just marketing.
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=minhmc2007&label=Profile%20views&color=0e75b6&style=flat-square" alt="minhmc" />
-</p>
+![](https://count.getloli.com/get/@minhmc2007?theme=gelbooru)
