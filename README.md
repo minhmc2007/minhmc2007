@@ -49,3 +49,11 @@ Privacy without source is just marketing.
 ---
 
 ![](https://count.getloli.com/get/@minhmc2007?theme=gelbooru)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minhmc2007&theme=github_dark"/>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF7A18,50:FF3CAC,100:784BA0&height=2" width="40%"/>
+</p>
