@@ -1,59 +1,49 @@
-# 👋 Hi, I'm Minh (aka minhmc2007)
+# 👋 Hello, I'm Minh! (aka minhmc2007)
 
-![banner](https://capsule-render.vercel.app/api?type=soft&color=88C0D0&height=180&section=header&text=minhmc2007%20🍃&fontSize=40&fontColor=fff)
-
-## 🌿 About Me
-
-- 🧑‍💻 **15-year-old developer** 
-- 🐍 **Python Main** | Focusing on automation and high-level logic.
-- 📱 **Android Customization** | Specialized in Samsung device modding.
-- 🧘 **The Present** | Taking a step back from distro-building to focus on real-life responsibilities and hobbies. Usually found reading manga or catching up on seasonal anime.
+A 16-year-old hobbyist developer from Vietnam 🇻🇳. I focus on Python scripting, Android modding (especially Samsung budget devices), and building convenient desktop utility applications. In my free time, I enjoy watching seasonal anime and reading manga.
 
 ---
 
-## 🛠️ Featured Project: Custom Super Maker
-
-I've moved on from *Blue Archive Linux* to focus on mobile development tools:
-
-### [Custom Super Maker](https://github.com/minhmc2007/Custom-Super-Maker)
-> **The easiest custom ROM solution for Samsung A/B partition devices.**  
-> A specialized tool designed to simplify the complexity of handling `super.img` partitions, making customization accessible for Samsung users.
+### 🌟 About Me
+- 🧑‍💻 **What I do:** Python automation, Bash scripting, and custom Android firmware packaging.
+- 📱 **Android Modding:** Specialized in Samsung dynamic partition manipulation (`super.img`).
+- 📺 **Hobbies:** Watching anime and looking for clean, ad-free ways to enjoy and manage media.
 
 ---
 
-## 🎧 Current Vibe
+### 🛠️ Featured Projects
 
-When I'm coding or relaxing, I usually have this on repeat. It’s a track that helps me find focus amidst a busy schedule.
+* **[Custom-Super-Maker](https://github.com/minhmc2007/Custom-Super-Maker)**  
+  A cloud-powered GitHub Actions workflow to easily unpack, modify, and repack Samsung dynamic `super.img` partitions. Makes custom ROM/GSI flashing simple for budget Samsung devices without requiring a local Linux setup.
 
-**Kioku (Memory) - Yosuga no Sora OST**
+* **[AniCli Electron](https://github.com/minhmc2007)**  
+  A cross-platform Electron-based desktop application designed to wrap the popular `ani-cli` scraper into a clean, graphical user interface for seamless, ad-free anime streaming.
 
-> *"Life moves at its own pace. It's important to stop and enjoy the quiet moments."*
+* **[Blue-Archive-Linux](https://github.com/minhmc2007/Blue-Archive-Linux)**  
+  The original, repository for the custom Arch-based OS styled with Blue Archive aesthetics and optimization. *(Note: This is a standalone project separate from KivotOS!)*
 
----
+* **[Tako](https://github.com/minhmc2007/Tako)**  
+  A lightweight scripting language built in C, designed for OS development, embedded systems, and educational interpreters.
 
-## 🔥 Skills & Tools
-
-- **Languages:** Python, Bash Shell
-- **Interests:** Android ROM Building (Samsung A/B), Automation, Linux Systems
-- **Hobbies:** Reading Manga, Watching Anime, exploring "quiet" tech.
-
-## 📫 Get in Touch
-
-- **GitHub:** [@minhmc2007](https://github.com/minhmc2007)
-- **Email:** quangminh21072010@gmail.com
+* **[UBT (Unity Bundle Tool)](https://github.com/minhmc2007/UBT)**  
+  A Python utility to extract and repack Unity asset bundles.
 
 ---
 
-Privacy without source is just marketing.
+### 📊 GitHub Stats & Technologies
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhmc2007&show_icons=true&locale=en&layout=compact&theme=dark" alt="minhmc2007" /></p>
 
-![](https://count.getloli.com/get/@minhmc2007?theme=gelbooru)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhmc2007&show_icons=true&locale=en&theme=dark" alt="minhmc2007" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minhmc2007&theme=dark" alt="minhmc2007" /></p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minhmc2007&theme=github_dark"/>
 </p>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF7A18,50:FF3CAC,100:784BA0&height=2" width="40%"/>
-</p>
+---
+
+### 📬 Connect with Me
+- **GitHub:** [@minhmc2007](https://github.com/minhmc2007)
+- **Email:** quangminh21072010@gmail.com
