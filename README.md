@@ -42,6 +42,11 @@ A 16-year-old hobbyist developer from Vietnam 🇻🇳. I focus on Python script
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minhmc2007&theme=github_dark"/>
 </p>
 
+Profile view
+<p align="center">
+  <img src="https://count.getloli.com/get/@minhmc2007?theme=gelbooru"/>
+</p>
+
 ---
 
 ### 📬 Connect with Me
