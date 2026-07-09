@@ -16,8 +16,8 @@ A 16-year-old hobbyist developer from Vietnam 🇻🇳. I focus on Python script
 * **[Custom-Super-Maker](https://github.com/minhmc2007/Custom-Super-Maker)**  
   A cloud-powered GitHub Actions workflow to easily unpack, modify, and repack Samsung dynamic `super.img` partitions. Makes custom ROM/GSI flashing simple for budget Samsung devices without requiring a local Linux setup.
 
-* **[AniCli Electron](https://github.com/minhmc2007)**  
-  A cross-platform Electron-based desktop application designed to wrap the popular `ani-cli` scraper into a clean, graphical user interface for seamless, ad-free anime streaming.
+* **[AniCli Flutter](https://github.com/minhmc2007/AniCli-Flutter)**  
+  A cross-platform Flutter-based desktop application designed to wrap the popular `ani-cli` scraper into a clean, graphical user interface for seamless, ad-free anime streaming.
 
 * **[Blue-Archive-Linux](https://github.com/minhmc2007/Blue-Archive-Linux)**  
   The original, repository for the custom Arch-based OS styled with Blue Archive aesthetics and optimization. *(Note: This is a standalone project separate from KivotOS!)*
