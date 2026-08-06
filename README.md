@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Minh! (aka minhmc2007)
 
-A 16-year-old hobbyist developer from Vietnam 🇻🇳. I focus on Python scripting, Android modding (especially Samsung budget devices), and building convenient desktop utility applications. In my free time, I enjoy watching seasonal anime and reading manga.
+Some random developer from Vietnam 🇻🇳. I focus on Python scripting, Android modding (especially Samsung budget devices), and building convenient desktop utility applications. In my free time, I enjoy watching seasonal anime and reading manga.
 
 ---
 
