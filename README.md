@@ -5,7 +5,7 @@ Some random developer from Vietnam 🇻🇳. I focus on Python scripting, Androi
 ---
 
 ### 🌟 About Me
-- 🧑‍💻 **What I do:** Python automation, Bash scripting, and custom Android firmware packaging.
+- 🧑‍💻 **What I do:** Python automation, Bash scripting, custom Android firmware packaging and my own custom ROM Legacydroid.
 - 📱 **Android Modding:** Specialized in Samsung dynamic partition manipulation (`super.img`).
 - 📺 **Hobbies:** Watching anime and looking for clean, ad-free ways to enjoy and manage media.
 
