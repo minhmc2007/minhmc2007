@@ -30,18 +30,6 @@ Some random developer from Vietnam 🇻🇳. I focus on Python scripting, Androi
 
 ---
 
-### 📊 GitHub Stats & Technologies
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhmc2007&show_icons=true&locale=en&layout=compact&theme=dark" alt="minhmc2007" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhmc2007&show_icons=true&locale=en&theme=dark" alt="minhmc2007" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minhmc2007&theme=dark" alt="minhmc2007" /></p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minhmc2007&theme=github_dark"/>
-</p>
-
 Profile view
 <p align="center">
   <img src="https://count.getloli.com/get/@minhmc2007?theme=gelbooru"/>
