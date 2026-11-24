@@ -35,6 +35,11 @@ Developer from Vietnam. I mostly work on Python tools, Android modding (specific
 - GitHub: [@minhmc2007](https://github.com/minhmc2007)
 - Email: quangminh21072010@gmail.com
 
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=minhmc2007&theme=dark)](https://git.io/streak-stats)
+
+
 <p align="center">
   <img src="https://count.getloli.com/get/@minhmc2007?theme=gelbooru"/>
 </p>
+
